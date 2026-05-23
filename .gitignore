@@ -1,0 +1,16 @@
+# Folder Python
+__pycache__/
+*.pyc
+
+# Folder Sistem & Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Data sensitif atau konfigurasi lokal
+.env
+*.log
+
+# File data sementara (agar data CSV asli tidak tertimpa/terlacak jika ada perubahan)
+# Jika Anda ingin tetap melacak penjualan.csv, hapus baris di bawah
+# penjualan.csv

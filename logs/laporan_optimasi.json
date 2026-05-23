@@ -1,0 +1,20 @@
+[
+    {
+        "tanggal": "01/05/2026",
+        "produk": "Sepatu",
+        "penjualan": 100,
+        "rekomendasi": "Pertahankan!"
+    },
+    {
+        "tanggal": "02/05/2026",
+        "produk": "Sepatu",
+        "penjualan": 50,
+        "rekomendasi": "Segera update iklan!"
+    },
+    {
+        "tanggal": "03/05/2026",
+        "produk": "Sepatu",
+        "penjualan": 120,
+        "rekomendasi": "Pertahankan!"
+    }
+]
